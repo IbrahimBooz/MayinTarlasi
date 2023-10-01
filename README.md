@@ -14,7 +14,9 @@ https://replit.com/@ibrahimboz1/MayinTarlasi
 # Oluşturulan projenin oynanış şekli aşağıda örneklendirilmiştir:
 
 
-![1](https://github.com/IbrahimBooz/MayinTarlasi/assets/109763478/ce71e764-a361-4f87-8a7f-26582555820d)
+![1](https://github.com/IbrahimBooz/MayinTarlasi/assets/109763478/30b50f1f-d180-4e41-9717-c2782a89001e)
 
-![2](https://github.com/IbrahimBooz/MayinTarlasi/assets/109763478/63ec394f-0cbe-433b-8bad-4c4dd6db8c4f)
+![2](https://github.com/IbrahimBooz/MayinTarlasi/assets/109763478/ae27ef7a-b4ee-459a-a9e7-656163051cf9)
+
+
 
