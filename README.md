@@ -1,6 +1,7 @@
 # MayinTarlasi 
 
-# Bu proje oluşturulurken java dili kullanıldı. Proje oluşturulurken dikkat edilen hususlar:
+# Bu proje java dili ile yazıldı. Proje oluşturulurken dikkat edilen hususlar aşağıda belirtilmiştir:
+
 <ul>
   <li>Metotlar oluşturuldu.</li>
   <li>Metotları saklayacak class oluşturuldu.</li>
